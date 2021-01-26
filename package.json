@@ -1,0 +1,19 @@
+{
+  "name": "background-generator",
+  "version": "1.0.0",
+  "description": "Simple background generator using Javascript",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dev-muse/background-generator.git"
+  },
+  "author": "A.Muse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dev-muse/background-generator/issues"
+  },
+  "homepage": "https://github.com/Dev-muse/background-generator#readme"
+}
